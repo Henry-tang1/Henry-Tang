@@ -1,0 +1,4 @@
+The rules of this game is simple.
+You need to choose a number between -100 and 100.
+The computer will choose a bomb between this number, and if you choose the bomb the game ends.
+See how many rounds you can stand without choosing the bomb!
